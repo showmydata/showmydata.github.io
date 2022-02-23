@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            OnceShy Blog
 tagline:          '一个普普通通的博客'
-description:      '大三在读学生，CTF练习生'
+description:      '大三在读，CTF练习生'
 url:              https://shomydata.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"

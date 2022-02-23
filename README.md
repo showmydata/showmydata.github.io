@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hydeout
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
@@ -166,3 +167,6 @@ You can see the full set of partials you can replace in the
 
 There's also a bunch of minor tweaks and adjustments throughout the
 theme. Hope this works for you!
+=======
+# showmydata.github.io
+>>>>>>> 9436a8939490685f5ce8e9ab0ef9fb028ad0fcee

@@ -1,11 +1,11 @@
-I"0	<p>Hyde is a brazen two-column <a href="http://jekyllrb.com">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. It’s based on <a href="http://getpoole.com">Poole</a>, the Jekyll butler.</p>
+I"	<p>Hyde is a brazen two-column <a href="http://jekyllrb.com">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. It’s based on <a href="http://getpoole.com">Poole</a>, the Jekyll butler.</p>
 
 <h3 id="built-on-poole">Built on Poole</h3>
 
 <p>Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by <a href="https://twitter.com/mdo">@mdo</a>. Poole, and every theme built on it (like Hyde here) includes the following:</p>
 
 <ul>
-  <li>Complete Jekyll setup included (layouts, config, <a href="/hydeout/404">404</a>, <a href="/hydeout/feed.xml">RSS feed</a>, posts, and <a href="/hydeout/about">example page</a>)</li>
+  <li>Complete Jekyll setup included (layouts, config, <a href="/404">404</a>, <a href="/feed.xml">RSS feed</a>, posts, and <a href="/about">example page</a>)</li>
   <li>Mobile friendly design and development</li>
   <li>Easily scalable text and component sizing with <code class="language-plaintext highlighter-rouge">rem</code> units in the CSS</li>
   <li>Support for a wide gamut of HTML elements</li>

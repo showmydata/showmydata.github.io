@@ -1,5 +1,5 @@
 # Dependencies
-markdown: CommonMarkGhPages
+markdown: kramdown
 highlighter:      rouge
 
 # Setup

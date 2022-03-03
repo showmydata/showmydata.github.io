@@ -28,6 +28,7 @@
 
   {% include custom-head.html %}
   
+  <!-- 支持latex -->
   <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -38,5 +39,8 @@
      });
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  
+  <!-- 支持memermaid画流程图 -->
+  <script src="/js/mermaid.full.min.js"></script>
        
 </head>

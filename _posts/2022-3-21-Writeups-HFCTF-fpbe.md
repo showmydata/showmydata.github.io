@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HFCTF-fpbe"
+title: "HFCTF - fpbe"
 categories: 
   - WriteUps
 tags:

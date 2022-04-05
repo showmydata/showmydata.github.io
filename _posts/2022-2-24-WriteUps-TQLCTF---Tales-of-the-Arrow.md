@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "TQLCTF - Tales of the Arrow"
+title: "TQLCTF2022 - Tales of the Arrow"
 categories: 
   - WriteUps
 tags:
-  - TQLCTF	
+  - TQLCTF2022	
   - Reverse
   - WP
 last_modified_at: 2022-02-24T17:34:52+08:00
